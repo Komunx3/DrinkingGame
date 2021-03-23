@@ -3,7 +3,32 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+  ".git/config": "3e0e23ebd246b5601a884c5d80368331",
+".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
+".git/HEAD": "cf7dd3ce51958c5f13fece957cc417fb",
+".git/hooks/applypatch-msg.sample": "ce562e08d8098926a3862fc6e7905199",
+".git/hooks/commit-msg.sample": "579a3c1e12a1e74a98169175fb913012",
+".git/hooks/fsmonitor-watchman.sample": "ea587b0fae70333bce92257152996e70",
+".git/hooks/post-update.sample": "2b7ea5cee3c49ff53d41e00785eb974c",
+".git/hooks/pre-applypatch.sample": "054f9ffb8bfe04a599751cc757226dda",
+".git/hooks/pre-commit.sample": "305eadbbcd6f6d2567e033ad12aabbc4",
+".git/hooks/pre-merge-commit.sample": "39cb268e2a85d436b9eb6f47614c3cbc",
+".git/hooks/pre-push.sample": "2c642152299a94e05ea26eae11993b13",
+".git/hooks/pre-rebase.sample": "56e45f2bcbc8226d2b4200f7c46371bf",
+".git/hooks/pre-receive.sample": "2ad18ec82c20af7b5926ed9cea6aeedd",
+".git/hooks/prepare-commit-msg.sample": "2b5c047bdb474555e1787db32b2d2fc5",
+".git/hooks/update.sample": "647ae13c682f7827c22f5fc08a03674e",
+".git/index": "d8970faefc82ef964857f4eadd8b9514",
+".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
+".git/logs/HEAD": "b1a6381559f53456093befe843a8414d",
+".git/logs/refs/heads/main": "b1a6381559f53456093befe843a8414d",
+".git/logs/refs/remotes/origin/HEAD": "b1a6381559f53456093befe843a8414d",
+".git/objects/pack/pack-c4d77e85e266c3c92a876b91a7c69133e68fe2af.idx": "79e2895be983bce5bceec646135d39db",
+".git/objects/pack/pack-c4d77e85e266c3c92a876b91a7c69133e68fe2af.pack": "29a3007f661c959b6f697452b9c6fca3",
+".git/packed-refs": "f82c5168239965b787d7b88a11524fa3",
+".git/refs/heads/main": "a53934abe38b15942a7febc533c2d261",
+".git/refs/remotes/origin/HEAD": "98b16e0b650190870f1b40bc8f4aec4e",
+"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/NOTICES": "a8d1d130b9909728d724354dc06becc1",
@@ -11,11 +36,11 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "bf483cf9a38d845ba56a4c7982ec0484",
-"/": "bf483cf9a38d845ba56a4c7982ec0484",
-"main.dart.js": "df50368978062821484931d7d295db9f",
-"manifest.json": "c1220b2a75f188e8e8ed59f4cbf9dfbb",
-"version.json": "c50ebadcd86ccc27ed22a5e41b7caaf0"
+"index.html": "9dbf92c18c40bc56f90910185378d438",
+"/": "9dbf92c18c40bc56f90910185378d438",
+"main.dart.js": "f91607a72fb1f6b79d870abc760a8bbb",
+"manifest.json": "b6acc62783148390d93810858f1b5271",
+"version.json": "9a82d6ba749ca136f42b57f04af1c835"
 };
 
 // The application shell files that are downloaded before a service worker can
