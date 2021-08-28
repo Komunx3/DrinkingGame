@@ -11,7 +11,7 @@
 	<title>admin &#8211; DRO-Computerservice</title>
 	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>Eine weitere WordPress-Website</description>
+	<description>Ihr kostengünstiger IT-Spezialist</description>
 	<lastBuildDate>Sat, 28 Aug 2021 11:11:24 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/08/logo_small_icon_only_inverted.png</url>
+	<title>admin &#8211; DRO-Computerservice</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hallo Welt!</title>
 		<link>/2021/08/28/hallo-welt/</link>
